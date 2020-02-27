@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">githubchallengekotlin</string>
+    <string name="repo_found">We found some repos for this company.\n Uploading the top three&#8230;</string>
+    <string name="no_repo_found">Sorry, we found no repos for this company.</string>
+    <string name="repo_company_name">Company Name</string>
+    <string name="repo_company_stars">Stars</string>
+    <string name="repo_click">Click anywhere to view this repo\'s web page</string>
+    <string name="placeholder_repo">repoName</string>
+    <string name="placeholder_stars">43531</string>
+    <string name="placeholder_extra">Extra Placeholder</string>
+    <string name="api_failed">API Request failed. This may be due to poor internet connection or too many requests to the server. Try again in a few minutes.</string>
+</resources>
